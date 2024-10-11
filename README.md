@@ -21,7 +21,7 @@ This repository hosts the source code for a User Management Platform built with 
 ![Users](https://i.ibb.co/L0hBv49/user-management-1.png)
 - Home Page
 
-![Add User](https://i.ibb.co/L0hBv49/user-management-1.png)
+![Add User](https://i.ibb.co/PQ03LKm/user-management-3.png)
 - Add User Popup
 
   
